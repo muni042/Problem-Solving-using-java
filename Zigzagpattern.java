@@ -1,4 +1,4 @@
-public class Zigzagpat {
+public class Zigzagpattern {
     public static void Zigzag(int n,String s)
     {
         char[][] arr=new char[n][s.length()];
